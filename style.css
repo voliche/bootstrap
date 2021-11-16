@@ -1,14 +1,35 @@
 body {
     background-color: rgb(195, 244, 255);
     text-align: center;
+    margin: 0;
 }
 
 .col {
-    border: 1px solid rgb(21, 21, 139);
+    border: 1px solid rgb(236, 236, 255);
     padding: 0;
     margin: 0%;
 }
 
 .container-fluid {
     background-color: rgb(180, 214, 255);
+    margin: 0;
+    padding: 0;
+}
+
+.primerDesafio {
+    border: 1px solid rgb(236, 236, 255);
+    padding: 30px;
+    margin: 0;
+    background-color: rgb(53, 211, 177);
+}
+
+.primerDesafio1 {
+    border: 1px solid rgb(236, 236, 255);
+    padding: 30px;
+    margin: 00;
+}
+
+.row {
+    margin: 0;
+    padding: 0;
 }
